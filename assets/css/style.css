@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: 'aloja_lighregular';
+    src: url('../fonts/aloja-ligh-webfont.woff2') format('woff2'),
+         url('../fonts/aloja-ligh-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'bright_sunshine_demoregular';
+    src: url('../fonts/bright-sunshine-demo-webfont.woff2') format('woff2'),
+         url('../fonts/bright-sunshine-demo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1, .footer{
+    font-family: 'aloja_lighregular'; 
+}
+p{
+    font-family: 'bright_sunshine_demoregular';   
+}

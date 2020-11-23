@@ -5,6 +5,7 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>PHP-Exercices Partie 4 </title>
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/cyborg/bootstrap.min.css" integrity="sha384-nEnU7Ae+3lD52AK+RGNzgieBWMnEfgTbRHIwEvp1XXPdqdO6uLTd/NwXbzboqjc2" crossorigin="anonymous">
+     <link rel="stylesheet" href="assets/css/style.css" >
  <nav class="navbar navbar-expand-lg navbar-light bg-warning ml-2 mr-2 mb-5 mt-3 h2">
   <a class="navbar-brand text-info pr-5 " href="../index.php">PHP-Exercices Partie 4 </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
